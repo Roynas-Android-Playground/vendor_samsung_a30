@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a30/proprietary/vendor/lib/hw/camera.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos7904.so \
     vendor/samsung/a30/proprietary/vendor/lib/hw/gatekeeper.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.exynos7904.so \
     vendor/samsung/a30/proprietary/vendor/lib/hw/sensors.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.exynos7904.so \
-    vendor/samsung/a30/proprietary/vendor/lib/hw/thermal.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.exynos7904.so \
     vendor/samsung/a30/proprietary/vendor/lib/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCv.camera.samsung.so \
     vendor/samsung/a30/proprietary/vendor/lib/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSEF.quram.so \
     vendor/samsung/a30/proprietary/vendor/lib/libSonyIMX471RmscLibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSonyIMX471RmscLibrary.so \
@@ -53,7 +52,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a30/proprietary/vendor/lib64/hw/camera.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos7904.so \
     vendor/samsung/a30/proprietary/vendor/lib64/hw/gatekeeper.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7904.so \
     vendor/samsung/a30/proprietary/vendor/lib64/hw/sensors.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.exynos7904.so \
-    vendor/samsung/a30/proprietary/vendor/lib64/hw/thermal.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.exynos7904.so \
     vendor/samsung/a30/proprietary/vendor/lib64/hw/vendor.samsung.hardware.gnss@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.samsung.hardware.gnss@2.0-impl.so \
     vendor/samsung/a30/proprietary/vendor/lib64/libOpenCv.camera.samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOpenCv.camera.samsung.so \
     vendor/samsung/a30/proprietary/vendor/lib64/libSEF.quram.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSEF.quram.so \
